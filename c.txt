@@ -4,7 +4,7 @@
 "tls_fingerprint" : "",
 "use_tls" : false,
 "call_timeout" : 10,
-"retry_time" : 10,
+"retry_time" : 15,
 "giveup_limit" : 0,
 "bnice" : false,
 "verbose_level" : 0,
@@ -17,6 +17,6 @@
 "dev_a" : "49sjSJJhxqpezbPE1euyN1gyVtcYQWr1w8XdjYaVQMeAFD56B833eLcfx5xH7TCCyzZekyh7UNVyHbr7PSQ21UNc2zU1yve",
 "cpu_threads_conf" :
 [
-    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
 ],
 "output_file" : "",
