@@ -1,7 +1,3 @@
-# Deep Render
+# openai-gemm
 
-Detailed documentation will be added shortly, incl. example usages. 
-
---
-
-*Current version - 1.3.1*
+Open single and half precision gemm implementations
